@@ -20,7 +20,7 @@
     android:theme="@style/Theme.Lab10_51900491_CaoNguyenKyDuyen">
     <meta-data
         android:name="com.google.android.geo.API_KEY"
-        android:value="YOUR_API_KEY" />
+        android:value="AIzaSyBmTx3qH7vl-h4St2DTXd4bfhA8nLqTSHU" />
     <activity
         android:name=".MainActivity"
         android:exported="true">
